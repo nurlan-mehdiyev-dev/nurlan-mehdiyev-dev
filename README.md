@@ -15,12 +15,6 @@
 **Databases:** MySQL | PostgreSQL | MongoDB  
 **DevOps & Tools:** Docker | GitHub Actions | AWS | CI/CD  
 
----
-
-## 📂 Projects
-
-- [Social Network](https://github.com/nurlanmehdiyev/social-network) - React + Redux app  
-- [Todo App](https://github.com/nurlanmehdiyev/todo-app) - TypeScript + REST API  
 
 ---
 
